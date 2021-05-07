@@ -30,3 +30,7 @@ color:rgb(240, 255, 27);
 .summer{
     background-color:hotpink;
 }
+
+.borderRed{
+border:15px solid rgb(240, 255, 27);
+}
